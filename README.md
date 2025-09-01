@@ -1,3 +1,8 @@
+
+
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/9ba8ed95-a27a-4a5f-bd1e-0ac3d05820d2" />
+
+
 # 🚀 Docker + Flask App
 
 This is a simple **Flask web application** containerized with **Docker** and deployed on an **EC2 instance**.
