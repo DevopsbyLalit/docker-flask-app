@@ -22,12 +22,15 @@ docker-flask-app/
    cd docker-flask-app
 
 2 Build Docker image
+
    docker build -t flask-app .
 
 3 Run the container
+
   docker run -d -p 5000:5000 flask-app
 
 4 Access the app
+
   Open browser and go to 👉 http://localhost:5000
   
 🌐 Deployed on AWS EC2
